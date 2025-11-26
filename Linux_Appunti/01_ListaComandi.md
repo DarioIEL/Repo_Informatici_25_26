@@ -50,6 +50,8 @@ Esempio: `rwxrw-r--` --> l'utente può fare tutto, il gruppo solo leggere/scrive
 # Gestione File e Cartelle
 
 ## Creare un file `touch dest/nomeFile`
+Posso creare più file allo stesso tempo 
+`touch file1.txt file2.txt ./cartella/file3.txt`
 
 ## Creare una cartella `mkdir dest/nomeDir`
 Con `mkdir -p ./Cartella/sottoCartella/sottoSottoCartella/` posso creare più cartelle una dentro l'altra in un colpo solo
