@@ -100,10 +100,3 @@ Poi:
 
 ---
 
-## Domande di Verifica
-1. Qual è la differenza tra `cd progetti` e `cd ~/progetti`?
-2. Come torni alla home directory con il comando più breve?
-3. Come crei cartelle annidate in un solo comando?
-4. Qual è la differenza tra `cp` e `mv`?
-5. Come copi un'intera cartella con tutti i contenuti?
-6. È possibile rinominare con `mv`? Come?
