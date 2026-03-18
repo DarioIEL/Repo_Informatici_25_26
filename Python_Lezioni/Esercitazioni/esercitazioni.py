@@ -1,4 +1,4 @@
-ES1 
+# ES1 
 # Dichiara due variabili numeriche: a = 15, b = 4
 # Calcola e stampa:
 # - la somma
@@ -12,7 +12,7 @@ a = 15
 b = 4
 
 
-Es2
+# Es2
 # Data la stringa: frase = "benvenuti al corso di python"
 # Stampa:
 # - la frase tutta in maiuscolo
@@ -21,8 +21,12 @@ Es2
 # - la frase con "python" sostituito da "programmazione"
 
 frase = "benvenuti al corso di python"
+print(frase.upper())
+print(len(frase))
 
-ES3
+
+
+# ES3
 # Dato un numero intero, stampa:
 # - "positivo" se > 0
 # - "negativo" se < 0
@@ -31,5 +35,5 @@ ES3
 
 numero = -7
 
-ES4
+# ES4
 

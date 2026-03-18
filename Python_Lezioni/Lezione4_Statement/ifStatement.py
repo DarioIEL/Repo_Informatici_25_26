@@ -9,7 +9,7 @@
 
 #Tutte le volte che uso un operatore di confronto sto generando un valore booleano
 
-#I valori boolean mi servono proprio negli if statement
+#I valori boolean mi servono pro Compito 18/03prio negli if statement
 
 #SINTASSI:
 # if condizione:
